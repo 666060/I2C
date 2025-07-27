@@ -18,7 +18,7 @@ The *master* sends data over the I2C bus, and the *slave* receives it and displa
 
 ## 📷 Simulation Output
 
-![LCD Output](lcd_output.png)
+![LCD Output](https://github.com/666060/I2C/blob/main/LCD_OUTPUT.png?raw=true)
 
 ## 📁 File Structure
 - MASTER/ → Master code and Proteus design
